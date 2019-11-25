@@ -1,5 +1,5 @@
 # importing testing framwork
-import pytests
+import pytest
 # library used to check working virtual environment
 import importlib
 
